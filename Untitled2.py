@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 
 
 #read the data from the csv file
-gender = pd.read_csv("https://raw.githubusercontent.com/Irodakhanim/Irodakhanim/main/gender-gap-in-primary-education.csv", delimiter=";")
+gender = pd.read_csv"https://raw.githubusercontent.com/Irodakhanim/Irodakhanim/main/gender-gap-in-primary-education.csv", delimiter=";"
 gender
 
 
