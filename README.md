@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Irodakhanim
-- 👀 I’m interested in сщвштп
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, JavaScript, HTML
 - 💞️ I’m looking to collaborate on C++
 - 📫 How to reach me ...
